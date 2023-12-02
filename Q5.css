@@ -1,0 +1,29 @@
+
+        body {
+            height: 100vh;
+
+            
+        }
+        h1{
+            text-align: center;
+            text-decoration: underline;
+        }
+        .image{
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        img {
+            width: 700px;
+            height: 500px;
+            border: 2px solid;
+            filter: blur(4px);
+            
+        }
+
+        img:hover {
+            filter: blur(0px);
+
+        }
+    

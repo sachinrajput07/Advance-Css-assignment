@@ -1,0 +1,21 @@
+
+        *{
+            padding: 0px;
+            margin: 0px;
+        }
+        .container{
+            width: 97%;
+            height: 10vh;
+            background: linear-gradient(90deg, #e183f8  , #9136fa  );
+            color: white;
+            margin: 10px;
+            padding: 8px;
+            border-radius: 5px;
+            display: flex;
+            justify-content: space-around;
+        }
+        h1{
+            text-align: center;
+        }
+        
+    

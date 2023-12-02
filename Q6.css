@@ -1,0 +1,20 @@
+
+        h1{
+            text-align: center;
+            text-decoration: underline;
+        }
+        .image{
+            
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        img{
+            width: 500px;
+            border-radius: 5px;
+        }
+        img:hover{
+            filter: grayscale(100%);
+            transition: all 1s ease-in-out;
+        }
+    
